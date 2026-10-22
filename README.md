@@ -19,7 +19,7 @@ The circuit follows the game's rules:
 
 ## How It Worked
 
-Each player has three switches: **Rock**, **Paper**, and **Scissors**. Each switch has a 10 kΩ resistor so the input reads a clean 0 or 1 when the switch is not pressed.
+Each player has three push button: **Rock**, **Paper**, and **Scissors**. Each switch has a 10 kΩ resistor so the input reads a clean 0 or 1 when the switch is not pressed.
 
 The circuit has three stages:
 
@@ -49,7 +49,7 @@ The circuit was designed and simulated in two tools: **CircuitLab** (full circui
 
 [![CircuitLab Schematic](images/circuitlab-schematic.png)](https://www.circuitlab.com/circuit/qq26a7dxrbst/ece-final/)
 
-[Open the interactive schematic on CircuitLab](https://www.circuitlab.com/circuit/qq26a7dxrbst/ece-final/)
+[Open the interactive schematic on CircuitLab]([https://www.circuitlab.com/circuit/qq26a7dxrbst/ece-final/](https://www.circuitlab.com/circuit/qq26a7dxrbst/ece-final/)
 
 ### Tinkercad
 
