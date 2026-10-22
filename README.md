@@ -2,7 +2,7 @@
 
 A two-player Rock Paper Scissors game built entirely from digital logic gates, with no microcontroller or code. Designed and simulated in Tinkercad Circuits, then built as a physical circuit. This was my final project for **ECE 101**.
 
-![Physical board](images/Physical-board.png)
+![Physical board](images/physical-board.png)
 
 ## Project Overview
 
@@ -47,7 +47,7 @@ The circuit was designed and simulated in two tools: **CircuitLab** (full circui
 
 ### CircuitLab
 
-[![CircuitLab Schematic](images/circuitlab-schematic.png)](https://www.circuitlab.com/circuit/qq26a7dxrbst/ece-final/)
+[![CircuitLab Schematic](images/circuitlab-schematic.png)]
 
 [Open the interactive schematic on CircuitLab]([https://www.circuitlab.com/circuit/qq26a7dxrbst/ece-final/](https://www.circuitlab.com/circuit/qq26a7dxrbst/ece-final/)
 
