@@ -47,14 +47,16 @@ The circuit was designed and simulated in two tools: **CircuitLab** (full circui
 
 ### CircuitLab
 
-[![CircuitLab Schematic](images/circuitlab-schematic.png)]
+![CircuitLab Schematic](images/circuitlab-schematic.png)
 
-[Open the interactive schematic on CircuitLab]([https://www.circuitlab.com/circuit/qq26a7dxrbst/ece-final/](https://www.circuitlab.com/circuit/qq26a7dxrbst/ece-final/)
+Open the interactive schematic on CircuitLab: (https://www.circuitlab.com/circuit/qq26a7dxrbst/ece-final/)
 
 ### Tinkercad
 
-- [View the Tinkercad schematic (PDF)](schematics/rock-paper-scissors-logic-board.pdf)
-- Tinkercad project link: *(add your link here, or delete this line)*
+![TinkerCAD](images/rock-paper-scissors-logic-board.png)
+
+[View the Tinkercad schematic (PDF)]: (schematics/rock-paper-scissors-logic-board.pdf)
+Tinkercad project link: (https://www.tinkercad.com/things/9wlv2NRZ0Q8-rock-paper-scissors-logic-board/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall&sharecode=MNioxQVSb1BDQJIUAqzX39JacsFo-IQdDtDgTaMkvB4)
 
 ## Parts Used
 
