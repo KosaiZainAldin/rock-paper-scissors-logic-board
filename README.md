@@ -55,7 +55,7 @@ Open the interactive schematic on CircuitLab: (https://www.circuitlab.com/circui
 
 ![TinkerCAD](images/rock-paper-scissors-logic-board.png)
 
-[View the Tinkercad schematic (PDF)]: (schematics/rock-paper-scissors-logic-board.pdf)
+[View the Tinkercad schematic (PDF)](schematics/rock-paper-scissors-logic-board.pdf)
 Tinkercad project link: (https://www.tinkercad.com/things/9wlv2NRZ0Q8-rock-paper-scissors-logic-board/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall&sharecode=MNioxQVSb1BDQJIUAqzX39JacsFo-IQdDtDgTaMkvB4)
 
 ## Parts Used
