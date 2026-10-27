@@ -61,8 +61,9 @@ Tinkercad project link: (https://www.tinkercad.com/things/9wlv2NRZ0Q8-rock-paper
 
 ## Parts Used
 
-- 6 switches (3 per player), each with a 10 kΩ resistor
-- 9 AND gates and OR gates (logic gate ICs, *add part numbers, e.g. the 74HC series*)
+- 6 push buttons (3 per player), each with a 10 kΩ pull down resistor
+- 9 AND gates (74LS08)
+- 3 OR gates (74LS32)
 - 3 LEDs (P1 WON, TIE, P2 WON), each with a 1 kΩ resistor
 - 5 V power supply
 - Breadboard and jumper wires
@@ -85,20 +86,8 @@ The project gave me practical experience connecting digital logic concepts to a 
 ## Course Info
 
 - **Course:** ECE 101
-- **Instructor:** *(add name)*
-- **School:** *(add school)*
-- **Term:** *(e.g. Fall 2026)*
+- **Instructor:** Kursten Szabos
+- **School:** George Mason Universty 
+- **Term:** Spring 2026
 - **Project:** Final project
 - **Grade:** 105.5/100 (included extra credit for designing it in Tinkercad)
-
-## Repository Structure
-
-```
-.
-├── README.md
-├── images/
-│   ├── board-photo.jpg
-│   └── circuitlab-schematic.png
-└── schematics/
-    └── rock-paper-scissors-logic-board.pdf
-```
