@@ -19,7 +19,7 @@ The circuit follows the game's rules:
 
 ## How It Worked
 
-Each player has three push button: **Rock**, **Paper**, and **Scissors**. Each switch has a 10 kΩ resistor so the input reads a clean 0 or 1 when the switch is not pressed.
+Each player has three push buttons: **Rock**, **Paper**, and **Scissors**. Each switch has a 10 kΩ resistor so the input reads a clean 0 or 1 when the switch is not pressed.
 
 The circuit has three stages:
 
@@ -49,7 +49,7 @@ The circuit was designed and simulated in two tools: **CircuitLab** (full circui
 
 ![CircuitLab Schematic](images/circuitlab-schematic.png)
 
-Open the interactive schematic on CircuitLab: (https://www.circuitlab.com/circuit/qq26a7dxrbst/ece-final/)
+[Open the interactive schematic on CircuitLab](https://www.circuitlab.com/circuit/qq26a7dxrbst/ece-final/)
 
 ### Tinkercad
 
@@ -57,13 +57,13 @@ Open the interactive schematic on CircuitLab: (https://www.circuitlab.com/circui
 
 [View the Tinkercad schematic (PDF)](schematics/rock-paper-scissors-logic-board.pdf)
 
-Tinkercad project link: (https://www.tinkercad.com/things/9wlv2NRZ0Q8-rock-paper-scissors-logic-board/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall&sharecode=MNioxQVSb1BDQJIUAqzX39JacsFo-IQdDtDgTaMkvB4)
+[Open the Tinkercad project](https://www.tinkercad.com/things/9wlv2NRZ0Q8-rock-paper-scissors-logic-board/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall&sharecode=MNioxQVSb1BDQJIUAqzX39JacsFo-IQdDtDgTaMkvB4)
 
 ## Parts Used
 
-- 6 push buttons (3 per player), each with a 10 kΩ pull down resistor
+- 6 push buttons (3 per player), each with a 10 kΩ pull-down resistor
 - 9 AND gates (74LS08)
-- 3 OR gates (74LS32)
+- 4 OR gates (74LS32)
 - 3 LEDs (P1 WON, TIE, P2 WON), each with a 1 kΩ resistor
 - 5 V power supply
 - Breadboard and jumper wires
@@ -87,7 +87,7 @@ The project gave me practical experience connecting digital logic concepts to a 
 
 - **Course:** ECE 101
 - **Instructor:** Kursten Szabos
-- **School:** George Mason Universty 
+- **School:** George Mason University
 - **Term:** Spring 2026
 - **Project:** Final project
 - **Grade:** 105.5/100 (included extra credit for designing it in Tinkercad)
