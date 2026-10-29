@@ -4,6 +4,17 @@ A two-player Rock Paper Scissors game built entirely from digital logic gates, w
 
 ![Physical board](images/physical-board.png)
 
+## Project Highlights
+
+- Designed and built a physical Rock Paper Scissors game using digital logic gates, without a microcontroller or software.
+- Used 9 AND gates to detect all possible player matchups and 4 OR gates to combine the results.
+- Applied binary representation and Boolean logic to translate game rules into a working hardware circuit.
+- Designed and simulated the circuit in CircuitLab and Tinkercad Circuits before building the physical board.
+
+## What I Learned
+
+This project gave me practical experience turning a set of rules into a physical digital system. I learned how to use binary inputs and Boolean logic to evaluate different conditions, and how logic gates work together to produce specific outputs. It also helped me connect concepts from digital electronics to an actual computer engineering application.
+
 ## Project Overview
 
 The goal of this project was to implement the rules of Rock Paper Scissors using a logic gate board. Each player's choice is a digital input, and logic gates evaluate the possible outcomes.
@@ -70,18 +81,14 @@ The circuit was designed and simulated in two tools: **CircuitLab** (full circui
 
 ## Engineering Concepts
 
-This project connected digital electronics with logical problem solving. It involved:
+This project involved:
 
 - Binary representation
 - Boolean logic
 - Logic gates
 - The relationship between circuit inputs and outputs
 
-It also demonstrated how a set of rules can be translated into a hardware system.
-
-## What I Learned
-
-The project gave me practical experience connecting digital logic concepts to a physical engineering application. It showed how logic circuits process inputs and produce outputs based on predefined conditions, an important foundation for computer engineering and digital system design.
+It demonstrated how a set of rules can be translated into a hardware system.
 
 ## Course Info
 
