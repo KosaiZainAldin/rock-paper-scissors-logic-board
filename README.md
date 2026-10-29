@@ -72,7 +72,7 @@ The circuit was designed and simulated in two tools: **CircuitLab** (full circui
 
 ![TinkerCAD](images/rock-paper-scissors-logic-board.png)
 
-[View the Tinkercad schematic (PDF)](schematics/rock-paper-scissors-logic-board.pdf)
+[View the Tinkercad schematic (PDF)](images/rock-paper-scissors-logic-board.pdf)
 
 [Open the Tinkercad project](https://www.tinkercad.com/things/9wlv2NRZ0Q8-rock-paper-scissors-logic-board/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall&sharecode=MNioxQVSb1BDQJIUAqzX39JacsFo-IQdDtDgTaMkvB4)
 
