@@ -7,13 +7,19 @@ A two-player Rock Paper Scissors game built entirely from digital logic gates, w
 ## Project Highlights
 
 - Designed and built a physical Rock Paper Scissors game using digital logic gates, without a microcontroller or software.
-- Used 9 AND gates to detect all possible player matchups and 4 OR gates to combine the results.
+- Used 9 AND gates to detect all possible player matchups and 6 OR gates to combine the results.
 - Applied binary representation and Boolean logic to translate game rules into a working hardware circuit.
 - Designed and simulated the circuit in CircuitLab and Tinkercad Circuits before building the physical board.
 
 ## What I Learned
 
 This project gave me practical experience turning a set of rules into a physical digital system. I learned how to use binary inputs and Boolean logic to evaluate different conditions, and how logic gates work together to produce specific outputs. It also helped me connect concepts from digital electronics to an actual computer engineering application.
+
+## Challenges and Solutions
+
+One of the challenges I encountered was combining the outputs of multiple AND gates into OR gates. Initially, I tried connecting the outputs of three AND gates to a single OR gate by combining two outputs on one input and connecting the third output to the other input. However, this caused signal fluctuations and prevented the circuit from working as intended.
+
+With limited guidance on this particular aspect of the circuit, I had to conduct additional research to understand the issue and find a working solution. This helped me better understand how logic gates interact electrically, beyond simply understanding their Boolean functions.
 
 ## Project Overview
 
@@ -74,7 +80,7 @@ The circuit was designed and simulated in two tools: **CircuitLab** (full circui
 
 - 6 push buttons (3 per player), each with a 10 kΩ pull-down resistor
 - 9 AND gates (74LS08)
-- 4 OR gates (74LS32)
+- 6 OR gates (74LS32)
 - 3 LEDs (P1 WON, TIE, P2 WON), each with a 1 kΩ resistor
 - 5 V power supply
 - Breadboard and jumper wires
